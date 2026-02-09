@@ -1,0 +1,14 @@
+
+Linear Regression – House Price Prediction Report
+
+Dataset: California Housing Dataset
+Model: Linear Regression
+
+Evaluation Metrics:
+- MAE  : 0.5332001304956553
+- RMSE : 0.7455813830127764
+
+Observations:
+- Lower MAE indicates good average prediction accuracy
+- RMSE penalizes large errors, showing overall reliability
+- Coefficients show feature influence on house prices
